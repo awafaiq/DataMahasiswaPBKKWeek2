@@ -1,0 +1,17 @@
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\bin\Debug\net10.0-windows\DataMahasiswa.exe
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\bin\Debug\net10.0-windows\DataMahasiswa.deps.json
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\bin\Debug\net10.0-windows\DataMahasiswa.runtimeconfig.json
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\bin\Debug\net10.0-windows\DataMahasiswa.dll
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\bin\Debug\net10.0-windows\DataMahasiswa.pdb
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.AssemblyInfoInputs.cache
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.AssemblyInfo.cs
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.dll
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\refint\DataMahasiswa.dll
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.pdb
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.genruntimeconfig.cache
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\ref\DataMahasiswa.dll
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMaha.5970C108.Up2Date
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.MainForm.resources
+C:\Users\MSI CYBORG\source\repos\DataMahasiswa\DataMahasiswa\obj\Debug\net10.0-windows\DataMahasiswa.csproj.GenerateResource.cache
